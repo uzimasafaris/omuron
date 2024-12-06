@@ -366,7 +366,7 @@
             shortDesc: "",
           },
           AboutUs: {
-            path: "/about",
+            path: "about.html",
             name: "About",
             longDesc:
               "We are a young and dynamic law firm that is passionate about providing our clients with exceptional legal services.  Our team consists of highly skilled and experienced lawyers who are committed to achieving the best possible outcomes for our clients.",
@@ -374,7 +374,7 @@
               "We are a young and dynamic law firm that is passionate about providing our clients with exceptional legal services.  Our team consists of highly skilled and experienced lawyers committed to achieving the best for our clients.",
           },
           Practices: {
-            path: "/practices",
+            path: "practices.html",
             name: "Practices",
             longDesc:
               "Our areas of expertise include Tax Advisory, Banking & Finance, Litigation & dispute resolution, and others as showed below in detail. We are dedicated to staying up-to-date with the latest developments and trends in these fields.",
