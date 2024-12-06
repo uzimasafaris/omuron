@@ -360,13 +360,13 @@
       let i = "",
         a = {
           Home: {
-            path: "index",
+            path: "/",
             name: "Home",
             longDesc: "Official Home site for Signum Advocates",
             shortDesc: "",
           },
           AboutUs: {
-            path: "about",
+            path: "/about.html",
             name: "About",
             longDesc:
               "We are a young and dynamic law firm that is passionate about providing our clients with exceptional legal services.  Our team consists of highly skilled and experienced lawyers who are committed to achieving the best possible outcomes for our clients.",

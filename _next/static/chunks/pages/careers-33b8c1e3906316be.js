@@ -3,7 +3,7 @@
   {
     9687: function (e, t, a) {
       (window.__NEXT_P = window.__NEXT_P || []).push([
-        "careers.html",
+        "/careers.html",
         function () {
           return a(6918);
         },
