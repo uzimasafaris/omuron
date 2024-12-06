@@ -45,7 +45,7 @@
     },
     512: function (e, t, n) {
       (window.__NEXT_P = window.__NEXT_P || []).push([
-        "/about.html",
+        "about.html",
         function () {
           return n(7869);
         },
